@@ -19,8 +19,6 @@ public class StringRev {
 		
 		ArrayList<Integer> z=new ArrayList<Integer>();
 		z.add(1);
-		
-		
 
 	}
 
